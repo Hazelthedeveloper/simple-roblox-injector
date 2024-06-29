@@ -1,5 +1,5 @@
 # simple-roblox-injector
-this is a very simple roblox exploit injector
+this is a very simple roblox exploit injector, made with Python.
 
 # TROUBLESHOOTING
 1: if its not injecting/letting you run the code. make sure roblox is up to date and the script is working.
